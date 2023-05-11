@@ -7,6 +7,7 @@
     android:background="@drawable/main_first"
     tools:context=".FirstFragment">
 
+    //주석처리
     <ImageView
         android:id="@+id/imageview_first"
         android:layout_width="wrap_content"
