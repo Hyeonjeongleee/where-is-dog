@@ -19,7 +19,7 @@
             android:id="@+id/textInputEditText"
             android:layout_width="232dp"
             android:layout_height="47dp"
-            android:hint="Enter texts here..." />
+            android:hint="채팅을 입력하세요" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button

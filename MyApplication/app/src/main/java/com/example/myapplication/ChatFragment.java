@@ -1,4 +1,4 @@
-package com.example.myapplication; //주석주석주석
+package com.example.myapplication;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
